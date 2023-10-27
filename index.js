@@ -1,5 +1,5 @@
-var btnOpciones = document.getElementById("btnOpciones");
-var opcionesDiv = document.getElementById("opcionesDiv");
+const btnOpciones = document.getElementById("btnOpciones");
+const opcionesDiv = document.getElementById("opcionesDiv");
 
 
 btnOpciones.addEventListener("click", function() {
